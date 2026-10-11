@@ -535,3 +535,4 @@ __forceinline void spu2Output(StereoOut32 out)
 			GSCapture::DeliverAudioPacket(s_current_chunk.data());
 	}
 }
+

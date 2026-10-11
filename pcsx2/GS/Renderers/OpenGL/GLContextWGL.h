@@ -54,3 +54,4 @@ private:
 	HDC m_dummy_dc = {};
 	HPBUFFERARB m_pbuffer = {};
 };
+

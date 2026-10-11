@@ -43,3 +43,4 @@ void ATA::SCE_IDENTIFY_DRIVE()
 	pioDRQEndTransferFunc = nullptr;
 	DRQCmdPIODataToHost(sceSec, 256 * 2, 0, 256 * 2, true);
 }
+

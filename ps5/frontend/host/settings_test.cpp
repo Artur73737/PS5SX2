@@ -328,3 +328,4 @@ int main(int argc, char** argv)
 	std::fprintf(stderr, "mode %s is not in this build\n", mode.c_str());
 	return 2;
 }
+

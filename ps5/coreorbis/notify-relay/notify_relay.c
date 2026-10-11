@@ -32,3 +32,4 @@ int main(void)
 	sleep(3);
 	_exit(rc == 0 ? 0 : 2);
 }
+

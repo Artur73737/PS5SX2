@@ -31,3 +31,4 @@ private:
 	size_t m_wpos = 0;
 	bool m_full = false;
 };
+

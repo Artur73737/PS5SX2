@@ -49,3 +49,4 @@ extern void pxOnAssertFail(const char* file, int line, const char* func, const c
 		pxAssumeMsg(false, "Incorrect usage of jNO_DEFAULT detected (default case is not unreachable!)"); \
 		break; \
 	}
+

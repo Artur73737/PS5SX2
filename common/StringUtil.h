@@ -340,3 +340,4 @@ namespace StringUtil
 				   reinterpret_cast<const ValueType*>(needle.data() + needle.length())) != std::end(haystack);
 	}
 } // namespace StringUtil
+

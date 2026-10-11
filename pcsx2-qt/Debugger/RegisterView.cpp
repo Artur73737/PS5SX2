@@ -476,3 +476,4 @@ std::optional<DebuggerEvents::GoToAddress> RegisterView::contextCreateGotoEvent(
 }
 
 #include "moc_RegisterView.cpp"
+

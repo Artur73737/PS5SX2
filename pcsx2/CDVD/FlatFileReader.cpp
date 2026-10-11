@@ -112,3 +112,4 @@ u32 FlatFileReader::GetBlockCount() const
 {
 	return static_cast<u32>(m_file_size / m_blocksize);
 }
+

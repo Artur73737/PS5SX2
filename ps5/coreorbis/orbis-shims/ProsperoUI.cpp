@@ -454,3 +454,4 @@ void consoleMultiLog(const std::vector<std::string>& logs)
   (void)logs;
 }
 } // namespace InputRec
+

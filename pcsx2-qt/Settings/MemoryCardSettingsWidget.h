@@ -110,3 +110,4 @@ private:
 
 	std::array<SlotGroup, MAX_SLOTS> m_slots;
 };
+

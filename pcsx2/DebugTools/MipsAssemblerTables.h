@@ -90,3 +90,4 @@ typedef struct {
 } tMipsOpcode;
 
 extern const tMipsOpcode MipsOpcodes[];
+

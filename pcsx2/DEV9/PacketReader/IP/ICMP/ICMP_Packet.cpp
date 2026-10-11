@@ -126,3 +126,4 @@ namespace PacketReader::IP::ICMP
 		NetLib::WriteUInt16(headerData, &offset, sequenceNumber);
 	}
 } // namespace PacketReader::IP::ICMP
+

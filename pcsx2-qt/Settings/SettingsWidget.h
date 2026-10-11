@@ -59,3 +59,4 @@ private:
 
 	QScrollArea* m_last_scroll_area = nullptr;
 };
+

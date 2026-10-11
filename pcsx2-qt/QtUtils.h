@@ -227,3 +227,4 @@ namespace QtUtils
 	/// Returns whether the escaping operation was lossless.
 	bool EscapeShortcutCommandLine(std::string* arg);
 } // namespace QtUtils
+

@@ -43,3 +43,4 @@ private:
 	Ui::LayoutEditorDialog m_ui;
 	NameValidator m_name_validator;
 };
+

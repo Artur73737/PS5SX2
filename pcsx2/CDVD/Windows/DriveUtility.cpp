@@ -41,3 +41,4 @@ void GetValidDrive(std::string& drive)
 	drive.pop_back();
 	drive.insert(0, "\\\\.\\");
 }
+

@@ -357,3 +357,4 @@ private:
 };
 
 extern MainWindow* g_main_window;
+

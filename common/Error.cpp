@@ -284,3 +284,4 @@ bool Error::operator!=(const Error& e) const
 {
 	return (m_type != e.m_type || m_description != e.m_description);
 }
+

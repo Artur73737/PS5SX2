@@ -135,3 +135,4 @@ void MemoryCardCreateDialog::createCard()
 }
 
 #include "moc_MemoryCardCreateDialog.cpp"
+

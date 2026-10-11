@@ -881,3 +881,4 @@ public:
 		return GSVector4(_mm_loaddup_pd(static_cast<const double*>(d)));
 	}
 };
+

@@ -246,3 +246,4 @@ struct GoemonTlb {
 	u32 key; // uniq number attached to an allocation
 	u32 unk5;
 };
+

@@ -28,3 +28,4 @@ for comments, pem in blocks:
     for line in pem.splitlines():
         out.append('"' + line + '\\n"')
 sys.stdout.write("\n".join(out) + "\n")
+

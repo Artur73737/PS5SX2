@@ -52,3 +52,4 @@ namespace Sessions
 		void HandleChildConnectionClosed(BaseSession* sender);
 	};
 } // namespace Sessions
+

@@ -62,3 +62,4 @@ public:
 };
 
 extern std::unique_ptr<GSRenderer> g_gs_renderer;
+

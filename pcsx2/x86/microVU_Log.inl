@@ -142,3 +142,4 @@ void __mVUdumpProgram(microVU& mVU, microProgram& prog)
 	std::fclose(mVU.logFile);
 	mVU.logFile = nullptr;
 }
+

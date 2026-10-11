@@ -285,3 +285,4 @@ void AchievementSettingsWidget::onAchievementsRefreshed(quint32 id, const QStrin
 }
 
 #include "moc_AchievementSettingsWidget.cpp"
+

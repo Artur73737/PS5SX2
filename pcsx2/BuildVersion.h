@@ -16,3 +16,4 @@ namespace BuildVersion
 	extern const char* GitHash;
 	extern const char* GitDate;
 } // namespace BuildVersion
+

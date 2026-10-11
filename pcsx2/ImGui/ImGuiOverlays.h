@@ -49,3 +49,4 @@ namespace InputRecordingUI
 }
 
 extern InputRecordingUI::InputRecordingData g_InputRecordingData;
+

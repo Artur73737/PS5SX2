@@ -45,3 +45,4 @@ namespace PacketReader::IP::UDP::DNS
 		virtual ~DNS_ResponseEntry(){};
 	};
 } // namespace PacketReader::IP::UDP::DNS
+

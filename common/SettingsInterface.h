@@ -260,3 +260,4 @@ public:
 		SetKeyValueList(section, si.GetKeyValueList(section));
 	}
 };
+

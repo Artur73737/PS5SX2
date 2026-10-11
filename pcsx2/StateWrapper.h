@@ -269,3 +269,4 @@ private:
 	u32 m_version;
 	bool m_error = false;
 };
+

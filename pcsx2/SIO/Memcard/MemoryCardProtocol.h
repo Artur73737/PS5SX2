@@ -52,3 +52,4 @@ public:
 };
 
 extern MemoryCardProtocol g_MemoryCardProtocol;
+

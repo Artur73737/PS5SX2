@@ -231,3 +231,4 @@ void AdvancedSettingsWidget::onSavestateCompressionTypeChanged()
 }
 
 #include "moc_AdvancedSettingsWidget.cpp"
+

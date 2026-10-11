@@ -243,3 +243,4 @@ void BaseProgressCallback::SetProgressState(ProgressState state)
 {
 	m_progress_state = state;
 }
+

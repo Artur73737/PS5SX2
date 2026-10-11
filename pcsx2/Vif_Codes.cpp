@@ -803,3 +803,4 @@ alignas(16) FnType_VifCmdHandler* const vifCmdHandler[2][128] =
 		vifCode_Unpack<1>  , vifCode_Unpack<1>  , vifCode_Unpack<1>	, vifCode_Null<1>   , vifCode_Unpack<1> , vifCode_Unpack<1> , vifCode_Unpack<1>  , vifCode_Unpack<1>  /*0x78*/
 	}
 };
+

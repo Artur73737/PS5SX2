@@ -53,3 +53,4 @@ void ColorPickerButton::onClicked()
 }
 
 #include "moc_ColorPickerButton.cpp"
+

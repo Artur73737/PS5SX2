@@ -22,3 +22,4 @@ namespace MipsStackWalk {
 
 	std::vector<StackFrame> Walk(DebugInterface* cpu, u32 pc, u32 ra, u32 sp, u32 threadEntry);
 };
+

@@ -423,3 +423,4 @@ void GameSummaryWidget::setCustomRegion(int region)
 }
 
 #include "moc_GameSummaryWidget.cpp"
+

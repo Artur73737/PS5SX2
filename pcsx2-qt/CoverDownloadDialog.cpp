@@ -179,3 +179,4 @@ void CoverDownloadDialog::CoverDownloadThread::runAsync()
 }
 
 #include "moc_CoverDownloadDialog.cpp"
+

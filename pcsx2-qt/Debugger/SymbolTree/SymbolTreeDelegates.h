@@ -86,3 +86,4 @@ private:
 	SymbolTreeDisplayOptions m_display_options;
 	s32 m_size_bits;
 };
+

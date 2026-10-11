@@ -33,3 +33,4 @@ int report_quiet_shelf(const session_info *s);
 
 /* Masks IPv4/IPv6/MAC addresses and the given secret in place (secret may be NULL); -1 if it couldn't. */
 int report_redact(sbuf *text, const char *secret);
+

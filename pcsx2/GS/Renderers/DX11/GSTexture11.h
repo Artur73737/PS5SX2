@@ -69,3 +69,4 @@ private:
 
 	wil::com_ptr_nothrow<ID3D11Texture2D> m_texture;
 };
+

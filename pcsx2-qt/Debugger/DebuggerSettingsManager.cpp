@@ -178,3 +178,4 @@ void DebuggerSettingsManager::saveGameSettings(QAbstractTableModel* abstractTabl
 	QJsonDocument doc(loadedSettings);
 	writeJSONToPath(path, doc);
 }
+

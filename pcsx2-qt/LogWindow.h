@@ -63,3 +63,4 @@ private:
 };
 
 extern LogWindow* g_log_window;
+

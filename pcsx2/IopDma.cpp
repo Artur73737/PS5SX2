@@ -270,3 +270,4 @@ void psxDMA12Interrupt()
 		psxDmaInterrupt2(5);
 	}
 }
+

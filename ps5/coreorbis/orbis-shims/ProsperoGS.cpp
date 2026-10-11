@@ -399,3 +399,4 @@ bool ChangeDump(const char* filename)
 } // namespace GSDumpReplayer
 
 R5900cpu GSDumpReplayerCpu{};
+

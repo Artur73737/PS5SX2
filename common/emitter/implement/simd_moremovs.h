@@ -152,3 +152,4 @@ namespace x86Emitter
 		void DQ(const xRegisterSSE& to, const xIndirectVoid& from) const;
 	};
 } // namespace x86Emitter
+

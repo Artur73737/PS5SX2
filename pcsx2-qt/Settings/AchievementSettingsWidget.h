@@ -29,3 +29,4 @@ private:
 
 	Ui::AchievementSettingsWidget m_ui;
 };
+

@@ -19,3 +19,4 @@ void PHYWrite();
 void PHYRead();
 u32 FWread32(u32 addr);
 void FWwrite32(u32 addr, u32 value);
+

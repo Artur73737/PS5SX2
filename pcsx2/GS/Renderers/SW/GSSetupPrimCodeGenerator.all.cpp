@@ -546,3 +546,4 @@ void GSSetupPrimCodeGenerator::Color()
 		movdqa(_rip_local(c.ga), xym2);
 	}
 }
+

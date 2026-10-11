@@ -12,3 +12,4 @@ const char *logger_relay_url(void);
 
 /* Makes console-id.txt (random, not the console's own IDs) if it's missing. */
 void logger_ensure_console_id(void);
+

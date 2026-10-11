@@ -40,3 +40,4 @@ int main(int argc, char** argv)
 	std::printf(failed ? "discs: FAILED\n" : "discs: all passed\n");
 	return failed ? 1 : 0;
 }
+

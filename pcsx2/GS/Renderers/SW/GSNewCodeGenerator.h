@@ -366,3 +366,4 @@ public:
 #undef ACTUAL_FORWARD_BASE
 #undef EXPAND_ARGS
 };
+

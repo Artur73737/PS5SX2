@@ -1057,3 +1057,4 @@ bool SaveStateBase::rcntFreeze()
 
 	return IsOkay();
 }
+

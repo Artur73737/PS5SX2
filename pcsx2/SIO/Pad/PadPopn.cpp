@@ -566,3 +566,4 @@ u8 PadPopn::SendCommandByte(u8 commandByte)
 	this->commandBytesReceived++;
 	return ret;
 }
+

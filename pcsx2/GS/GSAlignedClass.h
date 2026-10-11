@@ -52,3 +52,4 @@ class GSVirtualAlignedClass : public GSAlignedClass<i>
 public:
 	virtual ~GSVirtualAlignedClass() {}
 };
+

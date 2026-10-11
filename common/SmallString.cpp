@@ -842,3 +842,4 @@ void SmallStringBase::erase(s32 offset, s32 count)
 #endif
 	}
 }
+

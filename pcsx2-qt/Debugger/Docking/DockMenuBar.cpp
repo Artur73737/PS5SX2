@@ -329,3 +329,4 @@ QSize DockMenuBarStyle::sizeFromContents(
 }
 
 #include "moc_DockMenuBar.cpp"
+

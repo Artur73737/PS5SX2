@@ -656,3 +656,4 @@ void ATA::ClearHOB()
 	/* any write clears HOB high bit of device control register */
 	regControlHOBRead = false;
 }
+

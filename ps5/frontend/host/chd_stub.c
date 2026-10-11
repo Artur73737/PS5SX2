@@ -53,3 +53,4 @@ chd_error chd_get_metadata(chd_file *chd, uint32_t searchtag, uint32_t searchind
 	(void)resultflags;
 	return CHDERR_METADATA_NOT_FOUND;
 }
+

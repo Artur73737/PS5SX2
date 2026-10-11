@@ -506,3 +506,4 @@ void V_Core::DoDMAwrite(u16* pMem, u32 size)
 		Regs.STATX |= 0x400;
 	}
 }
+

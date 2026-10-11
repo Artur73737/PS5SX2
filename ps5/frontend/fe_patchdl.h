@@ -136,3 +136,4 @@ private:
 	std::map<std::string, OnlinePatchStatus> m_status; // by serial
 };
 } // namespace fe
+

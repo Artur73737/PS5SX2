@@ -28,3 +28,4 @@ private:
 
 	u32 m_color = 0;
 };
+

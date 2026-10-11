@@ -64,3 +64,4 @@ private:
 	bool m_archive_opened = false;
 #endif
 };
+

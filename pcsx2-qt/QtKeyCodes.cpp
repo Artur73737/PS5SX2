@@ -600,3 +600,4 @@ u32 QtUtils::KeyEventToCode(const QKeyEvent* ev)
 
 	return static_cast<u32>(key) | (static_cast<u32>(modifiers) & static_cast<u32>(Qt::KeypadModifier));
 }
+

@@ -134,3 +134,4 @@ namespace Host
 }
 
 extern Pcsx2Config::GSOptions GSConfig;
+

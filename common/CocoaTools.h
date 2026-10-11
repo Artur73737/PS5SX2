@@ -43,3 +43,4 @@ namespace CocoaTools
 } // namespace CocoaTools
 
 #endif // __APPLE__
+

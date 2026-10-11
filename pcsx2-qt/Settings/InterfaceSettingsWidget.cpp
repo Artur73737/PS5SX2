@@ -312,3 +312,4 @@ void InterfaceSettingsWidget::onClearGameListBackgroundTriggered()
 }
 
 #include "moc_InterfaceSettingsWidget.cpp"
+

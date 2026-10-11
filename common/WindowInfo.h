@@ -45,3 +45,4 @@ struct WindowInfo
 	/// Returns the host's refresh rate for the given window, if available.
 	static std::optional<float> QueryRefreshRateForWindow(const WindowInfo& wi);
 };
+

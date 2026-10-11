@@ -417,3 +417,4 @@ void cdvdRefreshData()
 
 	cdvdCacheReset();
 }
+

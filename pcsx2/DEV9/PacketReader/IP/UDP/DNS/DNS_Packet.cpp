@@ -183,3 +183,4 @@ namespace PacketReader::IP::UDP::DNS
 		return new DNS_Packet(*this);
 	}
 } // namespace PacketReader::IP::UDP::DNS
+

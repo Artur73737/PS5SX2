@@ -188,3 +188,4 @@ extern bool cdvdLoadDiscElf(ElfObject* elfo, IsoReader& isor, const std::string_
 extern s32 cdvdCtrlTrayOpen();
 extern s32 cdvdCtrlTrayClose();
 
+

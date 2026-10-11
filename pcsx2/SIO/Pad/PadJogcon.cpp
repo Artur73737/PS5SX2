@@ -539,3 +539,4 @@ u8 PadJogcon::SendCommandByte(u8 commandByte)
 	this->commandBytesReceived++;
 	return ret;
 }
+

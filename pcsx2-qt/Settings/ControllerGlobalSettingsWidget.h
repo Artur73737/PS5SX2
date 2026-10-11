@@ -79,3 +79,4 @@ public:
 private:
 	Ui::ControllerMappingSettingsDialog m_ui;
 };
+

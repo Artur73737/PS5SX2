@@ -869,3 +869,4 @@ void smap_async(u32 cycles)
 		_DEV9irq(SMAP_INTR_RXEND, 0); //Make the call to _DEV9irq in a thread safe way
 	}
 }
+

@@ -80,3 +80,4 @@ private:
 };
 
 bool MipsAssembleOpcode(const char* line, DebugInterface* cpu, u32 address, u32& dest, std::string& errorText);
+

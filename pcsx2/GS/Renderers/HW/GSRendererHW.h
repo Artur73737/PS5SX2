@@ -423,3 +423,4 @@ public:
 	/// Does the current draw allow using AA1 coverage (if AA1 is enabled).
 	bool IsCoverageAlphaSupported() override;
 };
+

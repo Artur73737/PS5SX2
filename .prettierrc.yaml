@@ -6,3 +6,4 @@ overrides:
       quoteProps: consistent
       endOfLine: auto
       proseWrap: preserve
+

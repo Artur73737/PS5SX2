@@ -1996,3 +1996,4 @@ void GSDrawScanline::DrawRect(const GSVector4i& r, const GSVertexSW& v, GSScanli
 		}
 	}
 }
+

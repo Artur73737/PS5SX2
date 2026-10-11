@@ -585,3 +585,4 @@ struct DUMMY_Q
 	} while (/*CONSTCOND*/ 0)
 
 #endif /* QEMU_SYS_QUEUE_H */
+

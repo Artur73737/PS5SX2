@@ -39,3 +39,4 @@ protected:
 private:
 	void WriteImage(const std::string& hddPath, u64 fileBytes, u64 zeroSizeBytes);
 };
+

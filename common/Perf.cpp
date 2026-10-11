@@ -223,3 +223,4 @@ namespace Perf
 	void Group::RegisterKey(const void* ptr, size_t size, const char* prefix, u64 key) {}
 #endif
 } // namespace Perf
+

@@ -84,3 +84,4 @@ private:
 
 	QList<QPair<QString, QString>> m_device_list;
 };
+

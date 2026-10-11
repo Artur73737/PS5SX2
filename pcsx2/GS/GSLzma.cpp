@@ -639,3 +639,4 @@ std::unique_ptr<GSDumpFile> GSDumpFile::OpenGSDump(const char* filename, Error* 
 
 	return file;
 }
+

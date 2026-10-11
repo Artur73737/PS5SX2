@@ -232,3 +232,4 @@ static __ri void IopHwTraceLog( u32 addr, T val, bool mode )
 }
 
 } };
+

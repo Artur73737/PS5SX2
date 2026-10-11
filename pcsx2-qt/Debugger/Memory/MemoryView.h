@@ -168,3 +168,4 @@ private:
 
 	MemoryViewTable m_table;
 };
+

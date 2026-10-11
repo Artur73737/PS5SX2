@@ -46,3 +46,4 @@ private:
 
 	Ui::GameListSettingsWidget m_ui;
 };
+

@@ -96,3 +96,4 @@ std::vector<std::string> DiscSet(const std::string& path);
 // extension, for comparing.
 int DiscNumber(const std::string& name, std::string* rest);
 } // namespace fe
+

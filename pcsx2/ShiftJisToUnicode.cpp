@@ -868,3 +868,4 @@ std::string ShiftJIS_ConvertString( const char* src, int maxlen )
 
 	return result;
 }
+

@@ -154,3 +154,4 @@ protected:
 	std::unique_ptr<ccc::ast::Node> m_type;
 	ccc::FunctionHandle m_function;
 };
+

@@ -1489,3 +1489,4 @@ const GameDatabase::HashDatabaseEntry* GameDatabase::lookupHash(
 
 	return all_okay ? candidate : nullptr;
 }
+

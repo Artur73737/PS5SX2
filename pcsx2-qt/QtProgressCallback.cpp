@@ -234,3 +234,4 @@ QWidget* QtAsyncProgressThread::parentWidget() const
 }
 
 #include "moc_QtProgressCallback.cpp"
+

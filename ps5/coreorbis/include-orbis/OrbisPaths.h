@@ -38,3 +38,4 @@ bool OrbisCachedRead(const char* path, std::string& out);
 std::string OrbisLogPath(const char* name);
 // pf.log's path for the page-fault handler (no allocation there); main-boot sets it at start.
 extern "C" char g_orbis_pf_log[160];
+

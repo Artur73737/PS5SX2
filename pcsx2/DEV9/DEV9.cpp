@@ -1155,3 +1155,4 @@ void DEV9CheckChanges(const Pcsx2Config& old_config)
 	else if (old_config.DEV9.HddEnable)
 		dev9.ata->Close();
 }
+

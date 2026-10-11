@@ -80,3 +80,4 @@ uint16_t ff_lg_get_damper_clip(uint8_t caps, unsigned char c)
 	}
 	return clip;
 }
+

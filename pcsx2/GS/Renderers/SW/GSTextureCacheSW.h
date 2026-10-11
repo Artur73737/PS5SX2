@@ -55,3 +55,4 @@ public:
 	void RemoveAll();
 	void IncAge();
 };
+

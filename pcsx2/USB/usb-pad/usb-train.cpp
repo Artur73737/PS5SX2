@@ -762,3 +762,4 @@ namespace usb_pad
 		return nullptr;
 	}
 } // namespace usb_pad
+

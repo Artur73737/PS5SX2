@@ -45,3 +45,4 @@ namespace PacketReader
 		payload->WriteBytes((u8*)pkt->buffer, &counter);
 	}
 } // namespace PacketReader
+

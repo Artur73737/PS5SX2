@@ -170,3 +170,4 @@ void GSVertexTrace::CorrectDepthTrace(const void* vertex, int count)
 		m_eq.z = 0;
 	}
 }
+

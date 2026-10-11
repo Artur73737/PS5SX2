@@ -161,3 +161,4 @@ private:
 	// otherwise it will be false.
 	bool m_is_active = false;
 };
+

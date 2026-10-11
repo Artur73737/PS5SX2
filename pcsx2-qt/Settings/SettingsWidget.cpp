@@ -142,3 +142,4 @@ void SettingsWidget::reflowCheckBoxes(QGridLayout* layout)
 }
 
 #include "moc_SettingsWidget.cpp"
+

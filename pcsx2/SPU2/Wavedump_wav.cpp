@@ -80,3 +80,4 @@ namespace WaveDump
 } // namespace WaveDump
 
 #endif // PCSX2_DEVBUILD
+

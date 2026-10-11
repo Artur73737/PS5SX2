@@ -106,3 +106,4 @@ void psxDmaInterrupt2(int n)
 		iopIntcIrq(3);
 	}
 }
+

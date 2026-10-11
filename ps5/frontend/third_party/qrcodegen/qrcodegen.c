@@ -1025,3 +1025,4 @@ static int numCharCountBits(enum qrcodegen_Mode mode, int version) {
 
 
 #undef LENGTH_OVERFLOW
+

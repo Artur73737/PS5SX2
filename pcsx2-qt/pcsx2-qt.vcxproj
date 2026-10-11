@@ -390,3 +390,4 @@
   <Import Project="$(SolutionDir)common\vsprops\QtCompile.targets" />
   <ImportGroup Label="ExtensionTargets" />
 </Project>
+

@@ -809,3 +809,4 @@ bool SaveStateBase::psxRcntFreeze()
 
 	return true;
 }
+

@@ -6868,3 +6868,4 @@ TRANSLATE_NOOP("FullscreenUI", "Card Name");
 TRANSLATE_NOOP("FullscreenUI", "Eject Card");
 // TRANSLATION-STRING-AREA-END
 #endif
+

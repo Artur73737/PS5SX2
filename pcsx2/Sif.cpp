@@ -22,3 +22,4 @@ bool SaveStateBase::sifFreeze()
 	Freeze(sif1);
 	return IsOkay();
 }
+

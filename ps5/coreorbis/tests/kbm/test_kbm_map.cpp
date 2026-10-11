@@ -227,3 +227,4 @@ int main()
 		printf("kbm map: PASS\n");
 	return s_failures == 0 ? 0 : 1;
 }
+

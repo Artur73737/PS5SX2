@@ -76,3 +76,4 @@ private:
 	QWidget* m_texture_replacement_tab = nullptr;
 	QWidget* m_advanced_tab = nullptr;
 };
+

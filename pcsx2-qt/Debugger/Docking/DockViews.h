@@ -112,3 +112,4 @@ protected:
 
 	void mouseDoubleClickEvent(QMouseEvent* event) override;
 };
+

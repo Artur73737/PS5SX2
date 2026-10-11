@@ -264,3 +264,4 @@ namespace OrbisAchievementsHttp
 		return std::make_unique<Downloader>(std::move(factory), shutdown_wait_ms);
 	}
 } // namespace OrbisAchievementsHttp
+

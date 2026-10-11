@@ -383,3 +383,4 @@ bool qrcodegen_getModule(const uint8_t qrcode[], int x, int y);
 #ifdef __cplusplus
 }
 #endif
+

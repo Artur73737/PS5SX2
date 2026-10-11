@@ -48,3 +48,4 @@ private:
 	void HandleFrameCheckSequence(NetPacket* pkt);
 	bool ValidateEtherFrame(NetPacket* pkt);
 };
+

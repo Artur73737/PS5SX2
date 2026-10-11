@@ -287,3 +287,4 @@ void ohci_hard_reset(OHCIState* ohci);
 void ohci_soft_reset(OHCIState* ohci);
 int ohci_bus_start(OHCIState* ohci);
 void ohci_bus_stop(OHCIState* ohci);
+

@@ -50,3 +50,4 @@ void iopIntcIrq(uint irqType)
 	psxHu32(HW_ISTAT) |= 1 << irqType;
 	iopTestIntc();
 }
+

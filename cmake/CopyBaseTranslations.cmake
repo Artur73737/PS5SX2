@@ -50,3 +50,4 @@ function(copy_base_translations target)
     endif()
   endforeach()
 endfunction()
+

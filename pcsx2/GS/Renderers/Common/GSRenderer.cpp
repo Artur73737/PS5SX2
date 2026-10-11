@@ -3532,3 +3532,4 @@ void DumpGSPrivRegs(const GSPrivRegSet& r, const std::string& filename)
 
 	std::fprintf(fp.get(), "EXTWRITE: { EN: %u }\n", r.EXTWRITE.WRITE);
 }
+

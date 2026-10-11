@@ -33,3 +33,4 @@ done
 mkdir "$work/data"
 UBSAN_OPTIONS=halt_on_error=1 "$work/browser" "$work/data"
 echo "PASS: synthetic disc hash, real rcheevos read-only listing, softcore/hardcore unlocks, badge cache and failure cleanup"
+

@@ -58,3 +58,4 @@ private:
 	std::unique_ptr<CoverDownloadThread> m_thread;
 	Common::Timer m_last_refresh_time;
 };
+

@@ -306,3 +306,4 @@ bool IsoReader::ReadFile(const ISODirectoryEntry& de, std::vector<u8>* data, Err
 	data->resize(de.length_le);
 	return true;
 }
+

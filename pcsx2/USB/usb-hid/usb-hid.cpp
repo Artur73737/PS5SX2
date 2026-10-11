@@ -985,3 +985,4 @@ namespace usb_hid
 			s->QueueMouseAxisState(static_cast<InputPointerAxis>(bind - INPUT_BUTTON__MAX), value);
 	}
 } // namespace usb_hid
+

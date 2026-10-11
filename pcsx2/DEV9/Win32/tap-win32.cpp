@@ -631,3 +631,4 @@ TAPAdapter::~TAPAdapter()
 	CloseHandle(htap);
 	isActive = false;
 }
+

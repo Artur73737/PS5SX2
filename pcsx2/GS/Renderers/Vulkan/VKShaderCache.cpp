@@ -802,3 +802,4 @@ std::optional<VKShaderCache::SPIRVCodeVector> VKShaderCache::CompileAndAddShader
 	m_index.emplace(key, data);
 	return spv;
 }
+

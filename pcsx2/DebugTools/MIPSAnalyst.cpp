@@ -565,3 +565,4 @@ namespace MIPSAnalyst
 		return info;
 	}
 }
+

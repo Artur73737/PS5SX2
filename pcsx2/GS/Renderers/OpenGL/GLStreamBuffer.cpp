@@ -487,3 +487,4 @@ std::unique_ptr<GLStreamBuffer> GLStreamBuffer::Create(GLenum target, u32 size)
 	else
 		return BufferDataStreamBuffer::Create(target, size);
 }
+

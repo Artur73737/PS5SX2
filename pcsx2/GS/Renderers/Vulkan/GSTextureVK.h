@@ -140,3 +140,4 @@ private:
 
 	bool m_needs_cache_invalidate = false;
 };
+

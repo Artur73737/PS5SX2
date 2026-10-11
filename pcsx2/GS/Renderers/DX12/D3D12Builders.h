@@ -139,3 +139,4 @@ namespace D3D12
 	static inline void SetObjectName(ID3D12Object* object, std::string_view name) {}
 #endif
 } // namespace D3D12
+

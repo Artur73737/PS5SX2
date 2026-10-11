@@ -404,3 +404,4 @@ int main(void) {
     fclose(g_out);
   return 0;
 }
+

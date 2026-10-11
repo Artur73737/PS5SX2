@@ -334,3 +334,4 @@ namespace Host
 	/// Changes the mouse lock setting
 	void SetMouseLock(bool state);
 } // namespace Host
+

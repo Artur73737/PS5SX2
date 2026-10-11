@@ -120,3 +120,4 @@ private:
 	std::size_t m_max_capacity = 0;
 	bool m_manual_evict = false;
 };
+

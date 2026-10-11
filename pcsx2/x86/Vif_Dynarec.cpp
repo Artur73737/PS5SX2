@@ -514,3 +514,4 @@ _vifT __fi void dVifUnpack(const u8* data, bool isFill)
 
 template void dVifUnpack<0>(const u8* data, bool isFill);
 template void dVifUnpack<1>(const u8* data, bool isFill);
+

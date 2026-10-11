@@ -401,3 +401,4 @@ emitterT u32* JNO32(u32 to)
 {
 	return J32Rel(0x81, to);
 }
+

@@ -400,3 +400,4 @@ void ATA::CreateHDDinfoCsum()
 	for (int i = 0; i < (512); i++)
 		counter += identifyData[i];
 }
+

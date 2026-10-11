@@ -129,3 +129,4 @@ namespace PacketReader::IP::UDP::DNS
 		NetLib::WriteByteArray(buffer, offset, data.size(), &data[0]);
 	}
 } // namespace PacketReader::IP::UDP::DNS
+

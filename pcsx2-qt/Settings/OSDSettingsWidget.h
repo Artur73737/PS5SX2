@@ -35,3 +35,4 @@ private:
 	Ui::OSDSettingsWidget m_ui;
 	QPointer<OSDFontPickerDialog> m_font_picker;
 };
+

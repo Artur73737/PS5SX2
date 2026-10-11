@@ -83,3 +83,4 @@ void MTVUInterrupt()
 {
 	VU0.VI[REG_VPU_STAT].UL &= ~0xFF00;
 }
+

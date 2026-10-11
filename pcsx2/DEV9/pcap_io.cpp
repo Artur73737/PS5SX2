@@ -466,3 +466,4 @@ bool PCAPAdapter::ValidateEtherFrame(NetPacket* pkt)
 
 	return crc == 0x2144DF1C;
 }
+

@@ -631,3 +631,4 @@ bool DDSLoader(const std::string& filename, GSTextureReplacements::ReplacementTe
 
 	return true;
 }
+

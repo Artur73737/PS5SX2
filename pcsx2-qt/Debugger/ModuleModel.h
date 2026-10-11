@@ -50,3 +50,4 @@ private:
 	DebugInterface& m_cpu;
 	std::vector<IopMod> m_modules;
 };
+

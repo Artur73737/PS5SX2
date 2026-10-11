@@ -1267,3 +1267,4 @@ bool Gif_MTGS_WaitRead(std::atomic<int>& readAmount, s32 extra, s32 target)
 	++g_orbis_ee_waitgs_n;
 	return reached;
 }
+

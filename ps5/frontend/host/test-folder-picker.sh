@@ -99,3 +99,4 @@ if [[ $failed != 0 ]]; then
   exit 1
 fi
 echo "folder picker: all passed"
+

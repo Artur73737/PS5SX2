@@ -152,3 +152,4 @@ extern void vif0FLUSH();
 extern void vif1FLUSH();
 
 extern void vifExecQueue(int idx);
+

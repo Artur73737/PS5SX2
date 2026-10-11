@@ -112,3 +112,4 @@ for src_file in src_files:
     total_strings += process_file(src_file)
 
 print(f"\nTotal: {total_strings} unique strings across all files.")
+

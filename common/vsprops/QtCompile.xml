@@ -12,3 +12,4 @@
   <FileExtension Name="*.ui" ContentType="QtUi" />
   <FileExtension Name="*.ts" ContentType="QtTs" />
 </ProjectSchemaDefinitions>
+

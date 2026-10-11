@@ -35,3 +35,4 @@ private:
 	CURLM* m_multi_handle = nullptr;
 	std::string m_user_agent;
 };
+

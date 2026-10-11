@@ -58,3 +58,4 @@ namespace DebuggerEvents
 		static constexpr const char* ACTION_OVERFLOW_STRING = QT_TRANSLATE_NOOP("DebuggerEvents", "Add to...");
 	};
 } // namespace DebuggerEvents
+

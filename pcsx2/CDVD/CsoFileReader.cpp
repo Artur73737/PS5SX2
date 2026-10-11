@@ -308,3 +308,4 @@ int CsoFileReader::ReadChunk(void* dst, s64 chunkID)
 		return success ? m_frameSize : 0;
 	}
 }
+

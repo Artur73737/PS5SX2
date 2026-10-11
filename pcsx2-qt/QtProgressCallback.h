@@ -91,3 +91,4 @@ private:
 	QSemaphore m_start_semaphore;
 	QThread* m_starting_thread = nullptr;
 };
+

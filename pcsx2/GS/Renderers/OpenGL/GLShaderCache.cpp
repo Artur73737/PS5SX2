@@ -541,3 +541,4 @@ std::optional<GLProgram> GLShaderCache::CompileAndAddComputeProgram(
 
 	return prog;
 }
+

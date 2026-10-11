@@ -304,3 +304,4 @@ TdisR3000AF disR3000A[] = {
 MakeDisFg(disR3000AF,	disR3000A[code >> 26](code, pc))
 
 }
+

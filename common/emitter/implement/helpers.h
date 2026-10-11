@@ -78,3 +78,4 @@ void _DoI_helpermess( const xImpl& helpme, const xDirectOrIndirect<T>& to, const
 #endif
 
 } // End namespace x86Emitter
+

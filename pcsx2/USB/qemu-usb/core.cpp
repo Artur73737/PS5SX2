@@ -885,3 +885,4 @@ void usb_wakeup(USBDevice* dev)
 		dev->port->ops->wakeup(dev->port);
 	}
 }
+

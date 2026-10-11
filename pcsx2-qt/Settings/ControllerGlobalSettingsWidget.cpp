@@ -215,3 +215,4 @@ ControllerMappingSettingsDialog::ControllerMappingSettingsDialog(ControllerSetti
 ControllerMappingSettingsDialog::~ControllerMappingSettingsDialog() = default;
 
 #include "moc_ControllerGlobalSettingsWidget.cpp"
+

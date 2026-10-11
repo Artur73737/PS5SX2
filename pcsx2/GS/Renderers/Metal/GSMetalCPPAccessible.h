@@ -17,3 +17,4 @@ GSDevice* MakeGSDeviceMTL();
 std::vector<GSAdapterInfo> GetMetalAdapterList();
 
 #endif
+

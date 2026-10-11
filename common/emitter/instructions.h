@@ -624,3 +624,4 @@ namespace x86Emitter
 	extern void xVZEROUPPER();
 
 } // namespace x86Emitter
+

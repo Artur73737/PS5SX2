@@ -39,3 +39,4 @@ namespace PacketReader::IP::UDP
 		virtual void CalculateChecksum(IP_Address srcIP, IP_Address dstIP);
 	};
 } // namespace PacketReader::IP::UDP
+

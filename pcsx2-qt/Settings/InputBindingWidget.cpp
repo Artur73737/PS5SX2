@@ -529,3 +529,4 @@ void InputVibrationBindingWidget::mouseReleaseEvent(QMouseEvent* e)
 }
 
 #include "moc_InputBindingWidget.cpp"
+

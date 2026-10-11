@@ -92,3 +92,4 @@ void ThreadView::onDoubleClick(const QModelIndex& index)
 }
 
 #include "moc_ThreadView.cpp"
+

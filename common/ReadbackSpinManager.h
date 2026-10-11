@@ -51,3 +51,4 @@ public:
 	/// Note: May be zero when there's insufficient data
 	double SpinsPerUnitTime() const { return m_spins_per_unit_time; }
 };
+

@@ -179,3 +179,4 @@ protected:
     c.ContextFlags = contextFlags;                                \
     RtlCaptureContext(&c);                                        \
   } while (0);
+

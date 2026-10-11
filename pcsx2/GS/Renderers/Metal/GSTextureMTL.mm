@@ -285,3 +285,4 @@ void GSDownloadTextureMTL::SetDebugName(std::string_view name)
 #endif
 
 #endif
+

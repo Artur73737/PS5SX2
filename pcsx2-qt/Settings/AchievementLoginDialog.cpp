@@ -175,3 +175,4 @@ bool AchievementLoginDialog::canEnableLoginButton() const
 }
 
 #include "moc_AchievementLoginDialog.cpp"
+

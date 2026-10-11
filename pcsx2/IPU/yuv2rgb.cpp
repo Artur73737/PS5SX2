@@ -254,3 +254,4 @@ __ri void yuv2rgb_neon()
 #endif
 
 MULTI_ISA_UNSHARED_END
+

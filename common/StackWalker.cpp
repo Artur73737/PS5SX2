@@ -1227,3 +1227,4 @@ void StackWalker::OnOutput(LPCSTR buffer)
 {
   OutputDebugStringA(buffer);
 }
+

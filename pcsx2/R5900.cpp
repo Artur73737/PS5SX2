@@ -899,3 +899,4 @@ int isMemcheckNeeded(u32 pc)
 
 	return 0;
 }
+

@@ -75,3 +75,4 @@ static constexpr CONSTANT int PRIMID_MIN = -1;
 #undef CONSTANT
 
 } // namespace GSShader
+

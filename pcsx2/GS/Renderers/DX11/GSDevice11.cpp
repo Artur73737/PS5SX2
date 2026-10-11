@@ -3442,3 +3442,4 @@ void GSDevice11::SetRenderHWShaderResources(const GSHWDrawConfig& config, GSText
 	if (primid_texture)
 		PSSetShaderResource(TEXTURE_PRIMID, primid_texture);
 }
+

@@ -136,3 +136,4 @@ namespace usb_printer
 #pragma pack(pop)
 
 } // namespace usb_printer
+

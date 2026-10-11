@@ -480,3 +480,4 @@ void NetAdapter::InternalServerThread()
 		internalRxHasData = false;
 	}
 }
+

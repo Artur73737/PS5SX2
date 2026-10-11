@@ -995,3 +995,4 @@ void VU_Thread::WriteRow(vifStruct& _vif)
 	CommitWritePos();
 	OrbisDataKick(); // vk-285-90
 }
+

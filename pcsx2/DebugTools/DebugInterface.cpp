@@ -1401,3 +1401,4 @@ bool MipsExpressionFunctions::getMemoryValue(u32 address, int size, u64& dest, s
 
 	return true;
 }
+

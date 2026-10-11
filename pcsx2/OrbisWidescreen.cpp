@@ -480,3 +480,4 @@ void OrbisWidescreenTick()
 		SetWide(false); // no level code for ~2.5 s (logos, loading)
 	}
 }
+

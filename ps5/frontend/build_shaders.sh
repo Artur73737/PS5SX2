@@ -29,3 +29,4 @@ PY
 } >"$OUT.tmp"
 mv "$OUT.tmp" "$OUT"
 echo "wrote $OUT ($(grep -c 'static const' "$OUT") shaders)"
+

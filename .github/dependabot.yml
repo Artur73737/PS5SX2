@@ -13,3 +13,4 @@ updates:
       ci-deps:
         patterns:
           - "*"
+

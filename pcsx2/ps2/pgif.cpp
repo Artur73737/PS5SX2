@@ -739,3 +739,4 @@ void psxDma2GpuW(u32 addr, u32 data)
 			break;
 	}
 }
+

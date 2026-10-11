@@ -368,3 +368,4 @@ namespace usb_printer
 	}
 
 } // namespace usb_printer
+

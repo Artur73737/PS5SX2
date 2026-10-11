@@ -641,3 +641,4 @@ static void QtHost::SetColorScheme(Qt::ColorScheme color_scheme)
 	s_color_scheme = color_scheme;
 	qApp->styleHints()->setColorScheme(color_scheme);
 }
+

@@ -506,3 +506,4 @@ static constexpr bool IsCommandBufferCompleted(MTLCommandBufferStatus status)
 }
 
 #endif // __APPLE__
+

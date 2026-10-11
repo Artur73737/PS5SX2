@@ -909,3 +909,4 @@ namespace x86Emitter
 		xWrite8(0x77);
 	}
 } // namespace x86Emitter
+

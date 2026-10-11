@@ -268,3 +268,4 @@ void CocoaTools::StopMainThreadEventLoop()
 	                                    data2:0];
 	[NSApp postEvent:ev atStart:NO];
 }}
+

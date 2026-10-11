@@ -88,3 +88,4 @@ if !ERRORLEVEL! EQU 0 (
 ENDLOCAL
 :: Always return an errorlevel of 0 -- this allows compilation to continue if SubWCRev failed.
 exit /B 0
+

@@ -58,3 +58,4 @@ public:
 	void LogPadData() const;
 };
 
+

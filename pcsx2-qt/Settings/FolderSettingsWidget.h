@@ -18,3 +18,4 @@ public:
 private:
 	Ui::FolderSettingsWidget m_ui;
 };
+

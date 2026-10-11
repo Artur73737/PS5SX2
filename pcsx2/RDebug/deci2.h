@@ -48,3 +48,4 @@ extern s32		connected;
 
 int	writeData(const u8 *result);
 void	exchangeSD(DECI2_HEADER *h);
+

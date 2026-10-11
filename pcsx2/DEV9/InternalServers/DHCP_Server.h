@@ -65,3 +65,4 @@ namespace InternalServers
 		void AutoBroadcast(PacketReader::IP::IP_Address parPS2IP, PacketReader::IP::IP_Address parNetmask);
 	};
 } // namespace InternalServers
+

@@ -1516,3 +1516,4 @@ const xRegister32
 	}
 
 } // End namespace x86Emitter
+

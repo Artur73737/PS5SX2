@@ -42,3 +42,4 @@ T ByteSwap(T value)
 #endif
 	}
 }
+

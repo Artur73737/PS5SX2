@@ -982,3 +982,4 @@ struct Gif_Unit
 };
 
 extern Gif_Unit gifUnit;
+

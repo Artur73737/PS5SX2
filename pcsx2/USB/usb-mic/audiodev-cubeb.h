@@ -50,3 +50,4 @@ namespace usb_mic
 		};
 	} // namespace audiodev_cubeb
 } // namespace usb_mic
+

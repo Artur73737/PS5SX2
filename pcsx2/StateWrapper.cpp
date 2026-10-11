@@ -268,3 +268,4 @@ void StateWrapper::VectorMemoryStream::Expand(u32 new_size)
 	// should take care of growth, right?
 	m_buf.resize(new_size);
 }
+

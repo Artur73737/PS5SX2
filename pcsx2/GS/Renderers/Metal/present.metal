@@ -397,3 +397,4 @@ fragment float4 ps_automagical_supersampling(ConvertShaderData data [[stage_in]]
 
 	return float4(col / div, 1);
 }
+

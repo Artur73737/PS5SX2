@@ -31,3 +31,4 @@ namespace PacketReader
 		PayloadPtrEditor* GetPayload() const;
 	};
 } // namespace PacketReader
+

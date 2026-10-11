@@ -569,3 +569,4 @@ __fi void _nVifUnpack(int idx, const u8* data, uint mode, bool isFill)
 {
 	UnpackLoopTable[idx][!!mode][isFill](data);
 }
+

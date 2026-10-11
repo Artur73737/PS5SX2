@@ -285,3 +285,4 @@ namespace orbis_mic
 		s_pos = 0.0;
 	}
 } // namespace orbis_mic
+

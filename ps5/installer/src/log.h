@@ -4,3 +4,4 @@
 void log_line(const char *fmt, ...) __attribute__((format(printf, 1, 2)));
 /* A notification on the PS5, also written to the log. */
 void notify(const char *fmt, ...) __attribute__((format(printf, 1, 2)));
+

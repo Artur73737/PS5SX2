@@ -212,3 +212,4 @@ void GamePatchSettingsWidget::setGlobalNiPatchNoteVisibility(bool visible)
 }
 
 #include "moc_GamePatchSettingsWidget.cpp"
+

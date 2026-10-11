@@ -233,3 +233,4 @@ struct Hotkeys
 	}
 };
 } // namespace orbis_kbm
+

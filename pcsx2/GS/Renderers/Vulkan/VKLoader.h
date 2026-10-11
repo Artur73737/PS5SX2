@@ -96,3 +96,4 @@ namespace Vulkan
 	void UnloadVulkanLibrary();
 	void ResetVulkanLibraryFunctionPointers();
 } // namespace Vulkan
+

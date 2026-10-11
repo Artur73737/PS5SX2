@@ -58,3 +58,4 @@ bool Vk::LoadDevice(VkDevice device, bool wsi, const char** missing)
 	return true;
 }
 } // namespace fe
+

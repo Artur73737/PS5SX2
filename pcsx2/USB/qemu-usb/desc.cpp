@@ -902,3 +902,4 @@ int usb_desc_handle_control(USBDevice* dev, USBPacket* p,
 	}
 	return ret;
 }
+

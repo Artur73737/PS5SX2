@@ -35,3 +35,4 @@ public:
 
 	s32 GetBlockOffset() { return m_blockofs; }
 };
+

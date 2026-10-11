@@ -179,3 +179,4 @@ const CPUInfo& GetCPUInfo()
 	return info;
 }
 #endif
+

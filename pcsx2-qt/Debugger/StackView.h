@@ -24,3 +24,4 @@ private:
 
 	StackModel* m_model;
 };
+

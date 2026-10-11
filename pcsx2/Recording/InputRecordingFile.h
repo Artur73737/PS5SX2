@@ -99,3 +99,4 @@ private:
 	size_t getRecordingBlockSeekPoint(const u32 frame) const noexcept;
 	bool verifyRecordingFileHeader();
 };
+

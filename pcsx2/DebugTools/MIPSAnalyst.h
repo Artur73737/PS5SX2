@@ -63,3 +63,4 @@ namespace MIPSAnalyst
 
 	MipsOpcodeInfo GetOpcodeInfo(DebugInterface* cpu, u32 address);
 };
+

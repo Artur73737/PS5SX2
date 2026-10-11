@@ -1590,3 +1590,4 @@ bool GSRendererHW::IsBadFrame()
 
 	return false;
 }
+

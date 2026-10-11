@@ -83,3 +83,4 @@ private:
 };
 
 extern DebuggerWindow* g_debugger_window;
+

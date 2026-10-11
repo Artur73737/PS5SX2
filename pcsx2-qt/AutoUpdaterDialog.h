@@ -76,3 +76,4 @@ private:
 	bool m_display_messages = false;
 	bool m_update_will_break_save_states = false;
 };
+

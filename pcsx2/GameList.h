@@ -162,3 +162,4 @@ namespace GameList
 	void SaveCustomRegionForPath(const std::string& path, int custom_region);
 	std::string GetCustomTitleForPath(const std::string& path);
 } // namespace GameList
+

@@ -216,3 +216,4 @@ int main()
 	std::fflush(stdout);
 	return s_failed ? 1 : 0;
 }
+

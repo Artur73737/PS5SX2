@@ -23,3 +23,4 @@ for (const g of GROUPS) {
   }
 }
 process.stdout.write(out.join("\n") + "\n");
+

@@ -1867,3 +1867,4 @@ bool SDLInputSource::IsControllerSixaxis(const ControllerData& cd)
 	       SDL_GetNumJoystickAxes(cd.joystick) == 16 &&
 	       SDL_GetNumJoystickButtons(cd.joystick) == 11;
 }
+

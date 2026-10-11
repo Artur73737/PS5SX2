@@ -409,3 +409,4 @@ void Host::Internal::SetInputSettingsLayer(SettingsInterface* sif, std::unique_l
 {
 	s_layered_settings_interface.SetLayer(LayeredSettingsInterface::LAYER_INPUT, sif);
 }
+

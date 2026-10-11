@@ -19,3 +19,4 @@ struct OrbisEEWaitScope
 	OrbisEEWaitScope(const OrbisEEWaitScope&) = delete;
 	OrbisEEWaitScope& operator=(const OrbisEEWaitScope&) = delete;
 };
+

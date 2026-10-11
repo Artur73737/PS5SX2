@@ -1680,3 +1680,4 @@ void GSRendererSW::SharedData::UpdateSource()
 		}
 	}
 }
+

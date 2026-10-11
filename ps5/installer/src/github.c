@@ -278,3 +278,4 @@ int gh_download(const gh_release *rel, const char *dest, gh_progress progress, v
     fs_remove_work_file(part);
   return rc;
 }
+

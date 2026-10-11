@@ -652,3 +652,4 @@ void NewParameterVariableDialog::createSymbol()
 }
 
 #include "moc_NewSymbolDialogs.cpp"
+

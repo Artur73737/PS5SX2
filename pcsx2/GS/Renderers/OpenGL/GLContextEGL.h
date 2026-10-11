@@ -55,3 +55,4 @@ protected:
 	bool m_use_ext_platform_base = false;
 	bool m_supports_negative_swap_interval = false;
 };
+

@@ -21,3 +21,4 @@ bool orbis_probe_jit();
 
 // Logs whether this process can see a HEN config and our TitleID in it (diagnostic).
 void orbis_log_hen_config();
+

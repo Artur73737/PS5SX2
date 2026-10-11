@@ -104,3 +104,4 @@ int main(int argc, char** argv)
 	std::printf(fails ? "%d FAILED\n" : "all passed\n", fails);
 	return fails ? 1 : 0;
 }
+

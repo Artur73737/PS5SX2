@@ -32,3 +32,4 @@ private:
 	u64 file_size = 0;
 	u32 hunk_size = 0;
 };
+

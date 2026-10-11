@@ -97,3 +97,4 @@ namespace GSShaderCompileIndicator
 		CompileTimer& operator=(const CompileTimer&) = delete;
 	};
 } // namespace GSShaderCompileIndicator
+

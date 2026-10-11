@@ -106,3 +106,4 @@ private:
 	void drawSegmented();
 	void drawMinimalistic();
 };
+

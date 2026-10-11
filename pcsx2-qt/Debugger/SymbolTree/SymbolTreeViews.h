@@ -203,3 +203,4 @@ protected:
 	ccc::FunctionHandle m_function;
 	std::optional<u32> m_caller_stack_pointer;
 };
+

@@ -36,3 +36,4 @@ namespace OrbisAchievementsHttp
 	// The destructor waits at most `shutdown_wait_ms` for workers still running and leaves the rest behind.
 	std::unique_ptr<HTTPDownloader> Create(ConnectionFactory factory, int shutdown_wait_ms = 1500);
 } // namespace OrbisAchievementsHttp
+

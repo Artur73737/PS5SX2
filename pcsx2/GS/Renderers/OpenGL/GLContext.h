@@ -45,3 +45,4 @@ protected:
 	WindowInfo m_wi;
 	Version m_version = {};
 };
+

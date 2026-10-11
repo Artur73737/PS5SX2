@@ -152,3 +152,4 @@ int main()
 	assert(panel.username.size() == Panel::MaxUsername);
 	return 0;
 }
+

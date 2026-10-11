@@ -102,3 +102,4 @@ namespace fe
 	// IPv4 TCP socket, and the kernel's random numbers (kern.arandom; /dev/urandom or RDRAND when that's refused).
 	HttpsPlatform MakeConsoleHttpsPlatform(int net_pool, std::function<void(const std::string&)> log);
 } // namespace fe
+

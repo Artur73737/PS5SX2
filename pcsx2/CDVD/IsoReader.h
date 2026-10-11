@@ -164,3 +164,4 @@ private:
 
 	ISOPrimaryVolumeDescriptor m_pvd = {};
 };
+

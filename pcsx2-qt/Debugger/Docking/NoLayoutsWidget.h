@@ -19,3 +19,4 @@ public:
 private:
 	Ui::NoLayoutsWidget m_ui;
 };
+

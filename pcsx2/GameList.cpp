@@ -1550,3 +1550,4 @@ static std::string GameList::EncodeIniKey(const std::string_view& input)
 
 	return out;
 }
+

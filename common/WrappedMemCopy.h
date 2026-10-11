@@ -38,3 +38,4 @@ __ri static void MemCopy_WrappedSrc(const u128* srcBase, uint& srcStart, uint sr
 		memcpy(dest + firstcopylen, srcBase, srcStart * 16);
 	}
 }
+

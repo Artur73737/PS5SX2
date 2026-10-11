@@ -1370,3 +1370,4 @@ void GSTextureReplacements::CancelPendingLoadsAndDumps()
 	s_async_loaded_textures.clear();
 	s_pending_async_load_textures.clear();
 }
+

@@ -319,3 +319,4 @@ std::string HTTPDownloader::GetExtensionForContentType(const std::string& conten
 	}
 	return ret;
 }
+

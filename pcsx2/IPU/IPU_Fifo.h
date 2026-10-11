@@ -43,3 +43,4 @@ struct IPU_Fifo
 };
 
 alignas(16) extern IPU_Fifo ipu_fifo;
+

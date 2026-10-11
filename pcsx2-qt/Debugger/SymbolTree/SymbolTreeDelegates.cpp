@@ -565,3 +565,4 @@ void SymbolTreeIntegerLineEdit::setSignedValue(s64 value)
 }
 
 #include "moc_SymbolTreeDelegates.cpp"
+

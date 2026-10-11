@@ -120,3 +120,4 @@ void InputRecordingViewer::closeFile()
 }
 
 #include "moc_InputRecordingViewer.cpp"
+

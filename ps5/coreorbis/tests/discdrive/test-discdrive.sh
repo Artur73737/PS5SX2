@@ -47,3 +47,4 @@ echo "built $obj/test_discdrive.elf; running it on $host:$port"
 out=$(timeout 180 socat -t 120 - "TCP:$host:$port" < "$obj/test_discdrive.elf")
 echo "$out"
 grep -q "^ALL PASSED" <<<"$out"
+

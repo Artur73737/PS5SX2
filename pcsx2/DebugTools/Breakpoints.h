@@ -185,3 +185,4 @@ private:
 
 // called from the dynarec
 u32 standardizeBreakpointAddress(u32 addr);
+

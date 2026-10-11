@@ -47,3 +47,4 @@ namespace usb_eyetoy
 		};
 	} // namespace macos_api
 } // namespace usb_eyetoy
+

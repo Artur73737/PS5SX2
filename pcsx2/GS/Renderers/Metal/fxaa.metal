@@ -11,3 +11,4 @@ fragment float4 ps_fxaa(ConvertShaderData data [[stage_in]], texture2d<float> te
 	color = FxaaPass(color, data.t, tex);
 	return color;
 }
+

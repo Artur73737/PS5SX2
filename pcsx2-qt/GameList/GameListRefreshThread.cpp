@@ -123,3 +123,4 @@ void GameListRefreshThread::run()
 }
 
 #include "moc_GameListRefreshThread.cpp"
+

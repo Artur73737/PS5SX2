@@ -522,3 +522,4 @@ GLProgram& GLProgram::operator=(GLProgram&& prog)
 	m_uniform_locations = std::move(prog.m_uniform_locations);
 	return *this;
 }
+

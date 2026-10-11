@@ -134,3 +134,4 @@ namespace MemcardBusy
 	extern void ClearBusy();
 	extern void CheckSaveStateDependency();
 }
+

@@ -317,3 +317,4 @@ protected:
 	void createWidgets(std::span<const InputBindingInfo> bindings);
 	void bindWidgets(std::span<const InputBindingInfo> bindings);
 };
+

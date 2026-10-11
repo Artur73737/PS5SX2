@@ -37,3 +37,4 @@ echo.
 echo That failed: the reason is in the lines above.
 pause
 exit /b 1
+

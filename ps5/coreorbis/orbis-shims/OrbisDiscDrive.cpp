@@ -198,3 +198,4 @@ bool WaitReady(const std::string& device, uint32_t timeout_ms, std::string* why)
 	return ready;
 }
 } // namespace OrbisDiscDrive
+

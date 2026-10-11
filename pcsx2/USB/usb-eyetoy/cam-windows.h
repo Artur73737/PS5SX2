@@ -116,3 +116,4 @@ namespace usb_eyetoy
 
 	} // namespace windows_api
 } // namespace usb_eyetoy
+

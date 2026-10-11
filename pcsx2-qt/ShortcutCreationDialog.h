@@ -21,3 +21,4 @@ protected:
 private:
 	Ui::ShortcutCreationDialog m_ui;
 };
+

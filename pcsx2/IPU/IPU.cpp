@@ -538,3 +538,4 @@ __fi void IPUCMD_WRITE(u32 val)
 	else
 		IPUWorker();
 }
+

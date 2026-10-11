@@ -448,3 +448,4 @@ void RasterWatermark(const Fonts& fonts, const char* line1, const char* line2, c
 	}
 }
 } // namespace fe
+

@@ -41,3 +41,4 @@ macro(check_lib var lib)
 		endif()
 	endif()
 endmacro()
+

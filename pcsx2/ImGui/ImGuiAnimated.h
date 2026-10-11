@@ -109,3 +109,4 @@ private:
 	float m_elapsed_time = 0.0f;
 	float m_duration = 1.0f;
 };
+

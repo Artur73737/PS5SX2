@@ -93,3 +93,4 @@ context.data.id='game.iso'; context.nextSnapshot = {...snapshot, entries: snapsh
   assert.equal(vm.runInContext('achievementText("empty_filter")',context),'No achievements in this filter.');
   console.log('PASS: achievement UI escaping, totals, filters, pagination, image queue and live refresh');
 })().catch(error => { console.error(error); process.exitCode=1; });
+

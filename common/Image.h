@@ -131,3 +131,4 @@ public:
 	bool SaveToFile(const char* filename, std::FILE* fp, u8 quality = DEFAULT_SAVE_QUALITY) const;
 	std::optional<std::vector<u8>> SaveToBuffer(const char* filename, u8 quality = DEFAULT_SAVE_QUALITY) const;
 };
+

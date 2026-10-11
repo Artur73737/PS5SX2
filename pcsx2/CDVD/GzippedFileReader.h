@@ -37,3 +37,4 @@ private:
 
 	zstate m_z_state = {};
 };
+

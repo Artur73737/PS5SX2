@@ -13,3 +13,4 @@ extern void VU_MACy_CLEAR(VURegs * VU);
 extern void VU_MACz_CLEAR(VURegs * VU);
 extern void VU_MACw_CLEAR(VURegs * VU);
 extern void VU_STAT_UPDATE(VURegs * VU);
+

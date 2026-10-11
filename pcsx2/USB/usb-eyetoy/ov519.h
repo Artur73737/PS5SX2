@@ -47,3 +47,4 @@
 #define OV7610_REG_ID_HIGH 0x1c /* manufacturer ID MSB */
 #define OV7610_REG_ID_LOW 0x1d  /* manufacturer ID LSB */
 #define OV7610_REG_COM_I 0x29   /* misc settings */
+

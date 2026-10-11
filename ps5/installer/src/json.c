@@ -370,3 +370,4 @@ int js_int64(const js_node *n, long long *out) {
 }
 
 int js_is_true(const js_node *n) { return n && n->type == JS_TRUE; }
+

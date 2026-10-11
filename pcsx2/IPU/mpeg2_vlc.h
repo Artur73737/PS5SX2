@@ -466,3 +466,4 @@ static constexpr VLC_ALIGNED16 DCTtabSet DCT =
 };
 
 #undef VLC_ALIGNED16
+

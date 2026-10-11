@@ -40,3 +40,4 @@ public:
 	static const char* BACKGROUND_SCALE_NAMES[];
 	static const char* IMAGE_FILE_FILTER;
 };
+

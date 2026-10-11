@@ -78,3 +78,4 @@ std::unique_ptr<GLContext> GLContext::Create(const WindowInfo& wi, Error* error)
 
 	return context;
 }
+

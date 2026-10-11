@@ -383,3 +383,4 @@ std::vector<AudioStream::DeviceInfo> AudioStream::GetCubebOutputDevices(const ch
 
 	return ret;
 }
+

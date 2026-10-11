@@ -27,3 +27,4 @@ public:
 	static std::vector<AdapterEntry> GetAdapters();
 	static AdapterOptions GetAdapterOptions();
 };
+

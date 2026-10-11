@@ -402,3 +402,4 @@ void InputRecording::InformGSThread()
 		g_InputRecordingData.undo_count_message = undo_count_message;
 	});
 }
+

@@ -543,3 +543,4 @@ bool GLContextEGL::CreateContextAndSurface(const Version& version, EGLContext sh
 
 	return true;
 }
+

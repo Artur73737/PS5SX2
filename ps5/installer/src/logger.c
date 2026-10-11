@@ -476,3 +476,4 @@ int logger_run(void) {
     }
   }
 }
+

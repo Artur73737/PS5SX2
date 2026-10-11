@@ -269,3 +269,4 @@ int zip_extract(zarch *z, const zentry *e, const char *dest) {
   close(w.fd);
   return rc;
 }
+

@@ -89,3 +89,4 @@ private:
 	// used when buffer storage is not available
 	u8* m_cpu_buffer = nullptr;
 };
+

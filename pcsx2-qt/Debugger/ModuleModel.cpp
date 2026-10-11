@@ -133,3 +133,4 @@ void ModuleModel::refreshData()
 }
 
 #include "moc_ModuleModel.cpp"
+

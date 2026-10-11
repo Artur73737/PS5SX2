@@ -197,3 +197,4 @@ extern NullLogWriter DbgConWriter;
 #define DEBUG_LOG(...) (void)0
 #define TRACE_LOG(...) (void)0
 #endif
+

@@ -736,3 +736,4 @@ private:
 	// current pipeline selector - we save this in the struct to avoid re-zeroing it every draw
 	PipelineSelector m_pipeline_selector = {};
 };
+

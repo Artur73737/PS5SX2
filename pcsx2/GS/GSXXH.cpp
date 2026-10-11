@@ -34,3 +34,4 @@ u64 CURRENT_ISA::GSXXH3_64_Digest(void* state)
 {
 	return XXH3_64bits_digest(static_cast<XXH3_state_t*>(state));
 }
+

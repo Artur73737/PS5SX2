@@ -2444,3 +2444,4 @@ void GSDrawScanlineCodeGenerator::split16_2x8(const VRegister& l, const VRegiste
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+

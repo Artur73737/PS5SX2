@@ -137,3 +137,4 @@ namespace Host
 	/// Called by ImGuiManager when the cursor leaves a text field.
 	void EndTextInput();
 } // namespace Host
+

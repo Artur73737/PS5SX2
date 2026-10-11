@@ -202,3 +202,4 @@ namespace x86Emitter
 		void Q(const xIndirect64& dst, const xRegisterSSE& src, u8 imm8) const;
 	};
 } // namespace x86Emitter
+

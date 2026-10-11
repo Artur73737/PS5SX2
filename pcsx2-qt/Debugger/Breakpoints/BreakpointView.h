@@ -41,3 +41,4 @@ private:
 
 	BreakpointModel* m_model;
 };
+

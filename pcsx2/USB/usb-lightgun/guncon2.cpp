@@ -688,3 +688,4 @@ namespace usb_lightgun
 		return !sw.HasError();
 	}
 } // namespace usb_lightgun
+

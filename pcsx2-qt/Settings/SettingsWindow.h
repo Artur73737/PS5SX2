@@ -160,3 +160,4 @@ private:
 	std::string m_serial;
 	u32 m_disc_crc;
 };
+

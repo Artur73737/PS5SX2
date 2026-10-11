@@ -137,3 +137,4 @@ struct Vk
 	bool LoadDevice(VkDevice device, bool wsi, const char** missing);
 };
 } // namespace fe
+

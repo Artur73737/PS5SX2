@@ -33,3 +33,4 @@ private:
 
 	QMap<QString, QGridLayout*> m_categories;
 };
+

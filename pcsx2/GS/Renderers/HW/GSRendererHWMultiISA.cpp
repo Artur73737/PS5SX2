@@ -575,3 +575,4 @@ bool GSRendererHWFunctions::SwPrimRender(GSRendererHW& hw, bool invalidate_tc, b
 
 	return true;
 }
+

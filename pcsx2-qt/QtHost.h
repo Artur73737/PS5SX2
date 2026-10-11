@@ -300,3 +300,4 @@ namespace QtHost
 	void LockVMWithDialog();
 	void UnlockVMWithDialog();
 } // namespace QtHost
+

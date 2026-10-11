@@ -1495,3 +1495,4 @@ std::string ImGuiManager::StripIconCharacters(std::string_view str)
 
 	return result;
 }
+

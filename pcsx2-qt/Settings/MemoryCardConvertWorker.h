@@ -31,3 +31,4 @@ private:
 	bool ConvertToFile(const std::string& srcFolderName, const std::string& destFileName, const MemoryCardFileType type);
 	bool ConvertToFolder(const std::string& srcFolderName, const std::string& destFileName, const MemoryCardFileType type);
 };
+

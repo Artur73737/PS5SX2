@@ -50,3 +50,4 @@ public:
 private:
 	std::optional<T> m_func;
 };
+

@@ -341,3 +341,4 @@ bool SaveStateBase::gsFreeze()
 	return IsOkay();
 }
 
+

@@ -640,3 +640,4 @@ bool PageFaultHandler::Install(Error* error)
 
 bool PageFaultHandler::InstallSecondaryThread() { return true; }
 #endif
+

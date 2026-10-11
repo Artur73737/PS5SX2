@@ -271,3 +271,4 @@ void GameListSettingsWidget::onScanForNewGamesClicked()
 }
 
 #include "moc_GameListSettingsWidget.cpp"
+

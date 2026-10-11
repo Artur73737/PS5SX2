@@ -38,3 +38,4 @@ namespace DockUtils
 		PreferredLocation location,
 		KDDockWidgets::QtWidgets::MainWindow* window);
 } // namespace DockUtils
+

@@ -5,3 +5,4 @@
     <OutDir Condition="'$(Platform)'=='ARM64'">$(SolutionDir)bin-arm64\</OutDir>
   </PropertyGroup>
 </Project>
+

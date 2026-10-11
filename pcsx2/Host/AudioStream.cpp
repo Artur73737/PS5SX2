@@ -819,3 +819,4 @@ void AudioStreamParameters::LoadSave(SettingsWrapper& wrap, const char* section)
 		expand_high_cutoff = std::min<u8>(expand_high_cutoff, 100);
 	}
 }
+

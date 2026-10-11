@@ -2240,3 +2240,4 @@ mVUop(mVU_JALR)
 	}
 	pass3 { mVUlog("JALR vi%02d, [vi%02d]", _Ft_, _Fs_); }
 }
+

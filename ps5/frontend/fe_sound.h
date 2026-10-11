@@ -74,3 +74,4 @@ private:
 	float m_volume;
 };
 } // namespace fe
+

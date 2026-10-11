@@ -19,3 +19,4 @@ namespace usb_mic
 	};
 
 } // namespace usb_mic
+

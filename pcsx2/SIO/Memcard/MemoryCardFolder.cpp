@@ -2377,3 +2377,4 @@ bool FolderMemoryCardAggregator::ReIndex(uint slot, const bool enableFiltering, 
 	m_lastKnownFilter = filter;
 	return false;
 }
+

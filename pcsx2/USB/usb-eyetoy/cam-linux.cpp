@@ -666,3 +666,4 @@ namespace usb_eyetoy
 		return linux_api::getDevList();
 	}
 } // namespace usb_eyetoy
+

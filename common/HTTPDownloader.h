@@ -96,3 +96,4 @@ protected:
 	std::mutex m_pending_http_request_lock;
 	std::vector<Request*> m_pending_http_requests;
 };
+

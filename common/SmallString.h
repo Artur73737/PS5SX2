@@ -424,3 +424,4 @@ MAKE_FORMATTER(TinyString);
 MAKE_FORMATTER(SmallString);
 
 #undef MAKE_FORMATTER
+

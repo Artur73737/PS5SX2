@@ -1297,3 +1297,4 @@ bool SameFormat(const char* a, const char* b)
 	return Conversions(a) == Conversions(b);
 }
 } // namespace fe
+

@@ -135,3 +135,4 @@ private:
 	int m_integer_base = 10;
 	bool m_show_leading_zeroes = false;
 };
+

@@ -197,3 +197,4 @@
     - any-glob-to-any-file:
       - 'pcsx2/USB/*'
       - 'pcsx2/USB/**/*'
+

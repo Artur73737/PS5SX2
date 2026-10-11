@@ -37,3 +37,4 @@ private:
 	rapidjson::Value& m_value;
 	rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator>& m_allocator;
 };
+

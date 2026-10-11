@@ -74,3 +74,4 @@ namespace DockTables
 	// the default layouts.
 	u32 hashDefaultLayouts();
 } // namespace DockTables
+

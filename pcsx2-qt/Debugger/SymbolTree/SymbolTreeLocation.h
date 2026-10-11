@@ -44,3 +44,4 @@ struct SymbolTreeLocation
 
 	friend auto operator<=>(const SymbolTreeLocation& lhs, const SymbolTreeLocation& rhs) = default;
 };
+

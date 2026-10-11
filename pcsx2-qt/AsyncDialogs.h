@@ -176,3 +176,4 @@ namespace AsyncDialogs
 		QMessageBox::StandardButton default_button,
 		std::function<void(QMessageBox::StandardButton)> callback = {});
 } // namespace AsyncDialogs
+

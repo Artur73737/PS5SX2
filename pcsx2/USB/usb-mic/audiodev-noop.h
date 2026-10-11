@@ -33,3 +33,4 @@ namespace usb_mic
 		};
 	} // namespace audiodev_noop
 } // namespace usb_mic
+

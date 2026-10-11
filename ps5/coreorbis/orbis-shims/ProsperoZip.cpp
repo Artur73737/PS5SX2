@@ -102,3 +102,4 @@ extern "C" int zip_stat_index(zip_t* archive, uint64_t index, zip_flags_t flags,
   (void)sb;
   return -1;
 }
+

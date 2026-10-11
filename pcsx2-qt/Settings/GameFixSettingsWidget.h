@@ -18,3 +18,4 @@ public:
 private:
 	Ui::GameFixSettingsWidget m_ui;
 };
+

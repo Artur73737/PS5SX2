@@ -38,3 +38,4 @@ void GSCodeReserve::CommitMemory(size_t size)
 	pxAssert((s_memory_ptr + size) <= s_memory_end);
 	s_memory_ptr += size;
 }
+

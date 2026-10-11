@@ -31,3 +31,4 @@ bool PCAPAdapter::send(NetPacket* pkt)
 void PCAPAdapter::reloadSettings()
 {
 }
+

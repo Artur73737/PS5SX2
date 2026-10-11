@@ -1296,3 +1296,4 @@ bool OptionsSheet::Activate(const Row& r, double now)
 	}
 }
 } // namespace fe
+

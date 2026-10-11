@@ -28,3 +28,4 @@ namespace usb_msd
 		std::span<const SettingInfo> Settings(u32 subtype) const override;
 	};
 } // namespace usb_msd
+

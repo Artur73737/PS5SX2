@@ -550,3 +550,4 @@ void SPU2::WriteRegLog(const char* action, u32 rmem, u16 value)
 #undef RegLog
 
 #endif // PCSX2_DEVBUILD
+

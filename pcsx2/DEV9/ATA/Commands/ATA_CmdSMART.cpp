@@ -149,3 +149,4 @@ void ATA::SMART_ReturnStatus()
 	}
 	PostCmdNoData();
 }
+

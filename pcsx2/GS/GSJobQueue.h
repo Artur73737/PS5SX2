@@ -83,3 +83,4 @@ public:
 		m_func(item);
 	}
 };
+

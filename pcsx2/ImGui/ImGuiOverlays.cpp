@@ -1872,3 +1872,4 @@ std::string SaveStateSelectorUI::GetSaveStateTimestampSummary(const std::time_t&
 			tm_modification_local);
 	}
 }
+

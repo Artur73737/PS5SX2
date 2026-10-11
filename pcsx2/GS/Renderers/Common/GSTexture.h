@@ -326,3 +326,4 @@ protected:
 
 	bool m_needs_flush = false;
 };
+

@@ -164,3 +164,4 @@ DynamicLibrary& DynamicLibrary::operator=(DynamicLibrary&& move)
 	move.m_handle = nullptr;
 	return *this;
 }
+

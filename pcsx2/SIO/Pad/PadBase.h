@@ -63,3 +63,4 @@ public: // Public members
 
 	virtual u8 SendCommandByte(u8 commandByte) = 0;
 };
+

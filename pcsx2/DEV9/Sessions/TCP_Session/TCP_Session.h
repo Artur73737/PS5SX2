@@ -145,3 +145,4 @@ namespace Sessions
 		void CloseSocket();
 	};
 } // namespace Sessions
+

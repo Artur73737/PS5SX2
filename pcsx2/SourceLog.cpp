@@ -238,3 +238,4 @@ TraceLogPack::IOP_PACK::IOP_PACK()
 	, MDEC(LD_IOP_MDEC)
 {
 }
+

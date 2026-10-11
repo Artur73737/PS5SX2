@@ -23,3 +23,4 @@ localtime_r:
 	.size	localtime_r, . - localtime_r
 
 	.section .note.GNU-stack, "", @progbits
+

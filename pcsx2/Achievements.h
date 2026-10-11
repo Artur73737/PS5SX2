@@ -200,3 +200,4 @@ namespace Host
 	/// Called whenever hardcore mode is toggled.
 	void OnAchievementsHardcoreModeChanged(bool enabled);
 } // namespace Host
+

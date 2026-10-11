@@ -146,3 +146,4 @@ bool SaveStateBase::vuMicroFreeze()
 
 	return IsOkay();
 }
+

@@ -225,3 +225,4 @@ inline bool ReadIndex(int fd, std::vector<Entry>& out, std::string& error)
 	return ParseIndex(index.data(), index.size(), count, index_offset, out, error);
 }
 } // namespace OrbisTexturePak
+

@@ -97,3 +97,4 @@ FUNCTION_SHIM_0_ARG(const char*, pcap_lib_version)
 #ifdef FUNCTION_SHIM_ANY_ARG
 #undef FUNCTION_SHIM_ANY_ARG
 #endif
+

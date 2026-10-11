@@ -94,3 +94,4 @@ void NewInputRecordingDlg::updateFormStatus()
 }
 
 #include "moc_NewInputRecordingDlg.cpp"
+

@@ -71,3 +71,4 @@ namespace PacketReader::IP::UDP::DNS
 		virtual DNS_Packet* Clone() const;
 	};
 } // namespace PacketReader::IP::UDP::DNS
+

@@ -105,3 +105,4 @@ private:
 
 	ControllerSettingsWindow* m_dialog;
 };
+

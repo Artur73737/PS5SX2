@@ -693,3 +693,4 @@ void DEV9CheckChanges(const Pcsx2Config& old_config);
 #ifdef _WIN32
 #pragma warning(error : 4013)
 #endif
+

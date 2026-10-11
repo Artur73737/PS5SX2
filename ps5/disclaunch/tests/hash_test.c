@@ -14,3 +14,4 @@ int main(int argc, char **argv) {
     printf("%s %s %s\n", crc, md5, sha1);
     return 0;
 }
+

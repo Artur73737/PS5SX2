@@ -164,3 +164,4 @@ s32 SPU2Savestate::SizeIt()
 {
 	return sizeof(DataBlock);
 }
+

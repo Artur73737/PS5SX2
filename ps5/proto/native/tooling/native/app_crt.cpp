@@ -116,3 +116,4 @@ _start(void *process_parameters, Destructor loader_teardown)
     catchReturnFromMain(status);
     exit(status);
 }
+

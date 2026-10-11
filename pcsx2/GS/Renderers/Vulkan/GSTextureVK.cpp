@@ -1018,3 +1018,4 @@ void GSDownloadTextureVK::SetDebugName(std::string_view name)
 }
 
 #endif
+

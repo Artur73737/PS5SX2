@@ -67,3 +67,4 @@ private:
 };
 
 extern InputRecording g_InputRecording;
+

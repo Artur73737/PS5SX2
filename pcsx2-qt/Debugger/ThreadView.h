@@ -26,3 +26,4 @@ private:
 	ThreadModel* m_model;
 	QSortFilterProxyModel* m_proxy_model;
 };
+

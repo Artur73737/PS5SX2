@@ -458,3 +458,4 @@ bool GLContextWGL::CreateVersionContext(const Version& version, HGLRC share_cont
 	m_rc = new_rc;
 	return true;
 }
+

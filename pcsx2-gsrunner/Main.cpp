@@ -1330,3 +1330,4 @@ void GSRunner::StopPlatformMessagePump()
 	s_shutdown_requested.store(true);
 }
 #endif // _WIN32 / __APPLE__
+

@@ -19,3 +19,4 @@ protected:
 	EGLDisplay GetPlatformDisplay(Error* error) override;
 	EGLSurface CreatePlatformSurface(EGLConfig config, void* win, Error* error) override;
 };
+

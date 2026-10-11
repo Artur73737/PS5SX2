@@ -331,3 +331,4 @@ void GSSetupPrimCodeGenerator::Color()
 		armAsm->Str(v2, _local(c.ga));
 	}
 }
+

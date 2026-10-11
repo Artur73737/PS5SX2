@@ -119,3 +119,4 @@ private:
 
 	QPointer<DebuggerView> m_focused_view_for_navigation;
 };
+

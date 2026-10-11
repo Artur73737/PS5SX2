@@ -430,3 +430,4 @@ std::string Updater::FindPCSX2Exe() const
 	}
 	return {};
 }
+

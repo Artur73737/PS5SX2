@@ -1533,3 +1533,4 @@ void WebServer::Log(const Request& req, const std::string& what)
 	                                        (playing.empty() ? std::string(" [on the shelf]") : " [playing " + playing + "]"));
 }
 } // namespace fe
+

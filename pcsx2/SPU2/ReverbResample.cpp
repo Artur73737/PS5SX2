@@ -258,3 +258,4 @@ StereoOut32 ReverbUpsample(V_Core& core)
 }
 
 MULTI_ISA_UNSHARED_END
+

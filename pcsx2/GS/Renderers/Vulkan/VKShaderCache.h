@@ -100,3 +100,4 @@ private:
 };
 
 extern std::unique_ptr<VKShaderCache> g_vulkan_shader_cache;
+

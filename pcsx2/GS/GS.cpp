@@ -1531,3 +1531,4 @@ BEGIN_HOTKEY_LIST(g_gs_hotkeys){"Screenshot", TRANSLATE_NOOP("Hotkeys", "Graphic
 			}
 		}},
 	END_HOTKEY_LIST()
+

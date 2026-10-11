@@ -1237,3 +1237,4 @@ namespace usb_pad
 		0xc0        // END_COLLECTION
 	};
 } // namespace usb_pad
+

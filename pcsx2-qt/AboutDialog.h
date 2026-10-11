@@ -31,3 +31,4 @@ private Q_SLOTS:
 private:
 	Ui::AboutDialog m_ui;
 };
+

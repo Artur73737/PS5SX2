@@ -644,3 +644,4 @@ const CDVD_API CDVDapi_NoDisc =
 		NODISCreadSector,
 		NODISCgetDualInfo,
 };
+

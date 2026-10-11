@@ -23,3 +23,4 @@ protected:
 
 	Ui::AnalysisOptionsDialog m_ui;
 };
+

@@ -214,3 +214,4 @@ public:
 private:
 	FPControlRegister m_prev_val;
 };
+

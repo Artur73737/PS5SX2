@@ -824,3 +824,4 @@ void USB::CheckForConfigChanges(const Pcsx2Config& old_config)
 		CreateDevice(port);
 	}
 }
+

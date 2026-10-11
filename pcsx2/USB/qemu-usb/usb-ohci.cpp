@@ -1676,3 +1676,4 @@ OHCIState* ohci_create(u32 base, int ports)
 	ohci_hard_reset(ohci);
 	return ohci;
 }
+

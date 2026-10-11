@@ -75,3 +75,4 @@ public:
 	/// Returns true if inversion/negation should be ignored when binding axes.
 	static bool ShouldIgnoreInversion();
 };
+

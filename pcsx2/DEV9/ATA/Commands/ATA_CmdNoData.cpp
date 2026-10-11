@@ -254,3 +254,4 @@ void ATA::HDD_IdleImmediate()
 	DevCon.WriteLn("DEV9: HDD_IdleImmediate");
 	PostCmdNoData();
 }
+

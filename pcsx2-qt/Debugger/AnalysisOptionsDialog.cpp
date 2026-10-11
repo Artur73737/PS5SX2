@@ -35,3 +35,4 @@ void AnalysisOptionsDialog::analyse()
 }
 
 #include "moc_AnalysisOptionsDialog.cpp"
+

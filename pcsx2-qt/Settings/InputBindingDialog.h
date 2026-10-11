@@ -76,3 +76,4 @@ protected:
 	QPoint m_input_listen_start_position{};
 	bool m_mouse_mapping_enabled = false;
 };
+

@@ -602,3 +602,4 @@ void ControllerSettingsWindow::switchProfile(const QString& name)
 }
 
 #include "moc_ControllerSettingsWindow.cpp"
+

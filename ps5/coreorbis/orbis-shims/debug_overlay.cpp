@@ -189,3 +189,4 @@ namespace ps5::debug
         return g_state.active.load();
     }
 } // namespace ps5::debug
+

@@ -419,3 +419,4 @@ void GetValidDrive(std::string& drive)
   if (!drives.empty())
     drive = drives.front();
 }
+

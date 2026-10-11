@@ -299,3 +299,4 @@ namespace orbis_fg
 		double m_floor_until = 0.0;
 	};
 } // namespace orbis_fg
+

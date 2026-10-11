@@ -34,3 +34,4 @@ namespace Common
 		u32 m_num_frames = 0;
 	};
 } // namespace Common
+

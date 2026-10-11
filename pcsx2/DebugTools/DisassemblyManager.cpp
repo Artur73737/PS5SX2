@@ -1061,3 +1061,4 @@ bool DisassemblyComment::disassemble(u32 address, DisassemblyLineInfo& dest, boo
 	dest.totalSize = size;
 	return true;
 }
+

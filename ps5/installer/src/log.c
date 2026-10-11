@@ -58,3 +58,4 @@ void notify(const char *fmt, ...) {
   log_write(line);
   plat_notify_text(text);
 }
+

@@ -45,3 +45,4 @@ namespace InternalServers
 		void LogPacket(PacketReader::IP::UDP::DHCP::DHCP_Packet* payload);
 	};
 } // namespace InternalServers
+

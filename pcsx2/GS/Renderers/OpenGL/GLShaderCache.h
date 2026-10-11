@@ -94,3 +94,4 @@ private:
 	CacheIndex m_index;
 	bool m_program_binary_supported = false;
 };
+

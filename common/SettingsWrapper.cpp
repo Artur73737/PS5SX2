@@ -228,3 +228,4 @@ void SettingsClearWrapper::_EnumEntry(const char* section, const char* var, int&
 {
 	m_si.DeleteValue(section, var);
 }
+

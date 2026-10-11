@@ -21,3 +21,4 @@ u16 readCache16(u32 mem, bool validPFN = true);
 u32 readCache32(u32 mem, bool validPFN = true);
 u64 readCache64(u32 mem, bool validPFN = true);
 RETURNS_R128 readCache128(u32 mem, bool validPFN = true);
+

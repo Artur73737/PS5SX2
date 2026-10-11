@@ -28,3 +28,4 @@ namespace usb_eyetoy
 		};
 	} // namespace linux_api
 } // namespace usb_eyetoy
+

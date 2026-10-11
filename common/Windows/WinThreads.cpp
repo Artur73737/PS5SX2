@@ -287,3 +287,4 @@ void Threading::SetNameOfCurrentThread(const char* name)
 	}
 #endif
 }
+

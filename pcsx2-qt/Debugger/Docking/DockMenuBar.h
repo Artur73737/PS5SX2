@@ -90,3 +90,4 @@ public:
 		const QSize& contents_size,
 		const QWidget* widget) const override;
 };
+

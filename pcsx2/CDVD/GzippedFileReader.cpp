@@ -244,3 +244,4 @@ u32 GzippedFileReader::GetBlockCount() const
 {
 	return (m_index->uncompressed_size + (m_blocksize - 1)) / m_blocksize;
 }
+

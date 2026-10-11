@@ -127,3 +127,4 @@ void SDLFFDevice::DisableForce(EffectID force)
   (void)force;
 }
 } // namespace usb_pad
+

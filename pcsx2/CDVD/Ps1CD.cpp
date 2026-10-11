@@ -1111,3 +1111,4 @@ bool SaveStateBase::cdrFreeze()
 	Freeze(cdr);
 	return IsOkay();
 }
+

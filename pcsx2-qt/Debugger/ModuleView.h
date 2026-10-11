@@ -25,3 +25,4 @@ private:
 
 	ModuleModel* m_model;
 };
+

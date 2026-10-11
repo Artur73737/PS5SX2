@@ -249,3 +249,4 @@ void GSVertexTraceFMM::FindMinMax(GSVertexTrace& vt, const void* vertex, const u
 		vt.m_max.c = GSVector4i::zero();
 	}
 }
+

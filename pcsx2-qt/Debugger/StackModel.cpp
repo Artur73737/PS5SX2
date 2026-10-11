@@ -119,3 +119,4 @@ void StackModel::refreshData()
 }
 
 #include "moc_StackModel.cpp"
+

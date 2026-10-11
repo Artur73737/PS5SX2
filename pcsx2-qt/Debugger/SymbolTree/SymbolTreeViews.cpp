@@ -1274,3 +1274,4 @@ static bool testName(const QString& name, const QString& filter)
 }
 
 #include "moc_SymbolTreeViews.cpp"
+

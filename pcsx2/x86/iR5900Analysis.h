@@ -62,3 +62,4 @@ namespace R5900
 } // namespace R5900
 
 void recBackpropBSC(u32 code, EEINST* prev, EEINST* pinst);
+

@@ -11281,3 +11281,4 @@ bool GSRendererHW::IsCoverageAlphaSupported()
 {
 	return IsCoverageAlpha() && IsRTWritten() && g_gs_device->Features().aa1;
 }
+

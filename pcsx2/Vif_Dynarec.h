@@ -44,3 +44,4 @@ alignas(16) extern nVifCall nVifUpk[(2 * 2 * 16) * 4]; // ([USN][Masking][Unpack
 alignas(16) extern u32      nVifMask[3][4][4];         // [MaskNumber][CycleNumber][Vector]
 
 static constexpr bool newVifDynaRec = 0; // Orbis bring-up: avoid the native VIF code cache.
+

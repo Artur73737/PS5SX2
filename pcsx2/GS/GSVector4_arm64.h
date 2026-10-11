@@ -783,3 +783,4 @@ public:
 		return GSVector4(vreinterpretq_f32_f64(vld1q_dup_f64((const double*)f)));
 	}
 };
+

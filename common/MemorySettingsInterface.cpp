@@ -340,3 +340,4 @@ void MemorySettingsInterface::RemoveEmptySections()
 		sit = m_sections.erase(sit);
 	}
 }
+

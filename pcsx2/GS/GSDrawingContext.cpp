@@ -290,3 +290,4 @@ void GSDrawingContext::Dump(const std::string& filename)
 
 	fclose(fp);
 }
+

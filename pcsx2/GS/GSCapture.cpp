@@ -1561,3 +1561,4 @@ GSCapture::FormatList GSCapture::GetVideoFormatList(const char* codec)
 
 	return ret;
 }
+

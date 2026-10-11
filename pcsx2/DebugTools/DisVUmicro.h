@@ -191,3 +191,4 @@ TdisR5900F dis##VU##MicroU[] = { \
  \
 MakeDisF(dis##VU##MicroUF,	dis##VU##MicroU[code & 0x3f] DisFInterfaceN) \
 
+

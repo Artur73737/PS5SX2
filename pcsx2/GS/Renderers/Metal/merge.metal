@@ -20,3 +20,4 @@ fragment float4 ps_merge1(ConvertShaderData data [[stage_in]], ConvertPSRes res,
 	return c;
 }
 
+

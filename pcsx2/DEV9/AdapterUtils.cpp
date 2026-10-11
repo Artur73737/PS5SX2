@@ -709,3 +709,4 @@ std::vector<IP_Address> AdapterUtils::GetDNS(const Adapter* adapter)
 	return collection;
 }
 #endif
+

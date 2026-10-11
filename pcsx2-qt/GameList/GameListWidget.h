@@ -139,3 +139,4 @@ private:
 	QSize m_background_last_size;
 	qreal m_background_last_dpr = 0.0;
 };
+

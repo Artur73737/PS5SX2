@@ -31,3 +31,4 @@ void D2_DCMP(char *inbuffer, char *outbuffer, char *message){
 	result->code++;
 	result->result=0;	//ok
 }
+

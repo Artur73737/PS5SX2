@@ -909,3 +909,4 @@ void OrbisAutoProfSecond(float speed, float ee, float gs, float vu)
 	s_auto_skipped.store(0, std::memory_order_relaxed);
 	s_auto_state.store(1, std::memory_order_release);
 }
+

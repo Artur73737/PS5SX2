@@ -85,3 +85,4 @@ void StackView::onDoubleClick(const QModelIndex& index)
 }
 
 #include "moc_StackView.cpp"
+

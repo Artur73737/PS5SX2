@@ -202,3 +202,4 @@ std::string OrbisLogPath(const char* name)
 {
 	return OrbisDir("logs") + "/" + name;
 }
+
